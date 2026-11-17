@@ -1,0 +1,12 @@
+{
+  "algorithm": "sha256",
+  "scope": "complete installable project-memory folder",
+  "files": {
+    "LICENSE": "6dadd675e64a31fd96466a6c000fee8a3416ae7da7d4219256558efbed4a52b2",
+    "SKILL.md": "33aeb5c72d5b57cb2e1e43b26c3b89ec3aa3ccf479b8ffdef4be6c629c44086c",
+    "agents/openai.yaml": "480eaa9a254c842946d6c41a93ad143b2d9fb6810db461e084ff6dd8bcc7114c",
+    "references/layout.md": "8a537174b89e5f28754047bc525afea21ee4619e23516ddc4585be87fd301912",
+    "references/reconciliation.md": "2135fb06bb1236f5171bede4ced72129ec75eb6a1bdedfe42a4de5dad88dcbeb",
+    "references/storage.md": "a1773bf69e2b0528005da72679dcd959a0848f8aead37ee68ed01a458faf1109"
+  }
+}

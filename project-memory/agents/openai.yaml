@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Memory"
+  short_description: "Recover verified project context across sessions"
+  default_prompt: "Use $project-memory to recover this project’s current context and preserve a verified handoff."

@@ -1,0 +1,6 @@
+.project-memory/
+private-run/
+evaluation/
+__pycache__/
+.env
+.env.*
